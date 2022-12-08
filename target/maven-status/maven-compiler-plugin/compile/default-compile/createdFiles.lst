@@ -1,0 +1,6 @@
+com\steevelinformaticien\hibernateapp\controller\PlayerController.class
+com\steevelinformaticien\hibernateapp\dto\PlayerDto.class
+com\steevelinformaticien\hibernateapp\HibernateApp.class
+com\steevelinformaticien\hibernateapp\bean\Player.class
+com\steevelinformaticien\hibernateapp\service\PlayerService.class
+com\steevelinformaticien\hibernateapp\utils\HibernateUtil.class
